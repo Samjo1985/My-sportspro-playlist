@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL1
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=15834&deviceMac=00:1A:79:40:26:09
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL 2
-https://001.fclplayer.online/live/csstream3/chunklist.m3u8?vidictid=201772771522&id=1003&pk=f487b6aeb69d835debbae3af228af8bcaf9fca5a5573d2a6a3ac9827d9b25562
+https://002.fclplayer.net/live/csstream3/chunklist.m3u8?vidictid=201876468028&id=1003&pk=69908e7e61f4b6348706325e4656e3d40dc3028e6198ed0a98917843c2ca41d1
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",1PL 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL 4
