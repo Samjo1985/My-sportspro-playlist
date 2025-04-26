@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL1
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=15834&deviceMac=00:1A:79:40:26:09
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL 2
-https://002.fclplayer.net/live/csstream3/chunklist.m3u8?vidictid=201876468028&id=1003&pk=69908e7e61f4b6348706325e4656e3d40dc3028e6198ed0a98917843c2ca41d1
+https://www.tbn24.com/api/video/4028_0.m3u8
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",1PL 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1732192954472_IPL-2025.jpeg" group-title="IPL",IPL 4
@@ -16,7 +16,7 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8?|referer=https://olalivehdpl
 #EXTINF:-1 tvg-logo="https://factodata.com/wp-content/uploads/2025/02/IPL-2025-logo-png.webp" group-title="IPL",IPL 8
 https://cdn.hoichoi24.com/LIVE/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160049" group-title="Sports",Star sports tamil
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/doodstream/chunks.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=15834&deviceMac=00:1A:79:40:26:09
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpA69SjmtIBNYKcZj-wFcT4YQgBY0nSc-rmA&s" group-title="Sports",Star sports Hindi
 https://rips.in/stream/ch4/use-embed-plz.m3u8?|referer=https://rips.in/player.php
 #EXTINF:-1 tvg-logo="https://cdn.platinumlist.net/upload/event/mubadala_abu_dhabi_open_2025_2025_feb_01_2025_feb_08_international_tennis_centre_zayed_sports_city_94547-full-en1738227085.jpg" group-title="Sports",Live Soccer
